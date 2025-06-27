@@ -20,3 +20,5 @@ class Solution:
             nums[i] = nums[i] // n
 
         return nums
+# This is a small update for learning GitHub pull requests.
+
