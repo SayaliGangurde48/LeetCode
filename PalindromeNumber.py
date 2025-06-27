@@ -22,3 +22,4 @@ class Solution:
         original = str(x)
         return original == original[::-1]
 # Solution added on 27-06-2025
+ #Practicing second pull request for GitHub Pull Shark badge.
